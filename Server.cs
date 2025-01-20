@@ -3,8 +3,6 @@ using System.Net.Sockets;
 using System.Text;
 using codecrafters_http_server.src;
 
-Console.WriteLine("Logs from your program will appear here!");
-
 TcpListener server = null;
 
 try
